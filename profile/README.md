@@ -8,10 +8,6 @@ Say thanks by starring :star: the repos in this organization, reporting issues :
 
 Collected at the organization's [GitHub Pages](https://matchy-at-ethz.github.io)
 
-### Current ToC
-
-<!-- todo: copy the toc of README.md in matchy-at-ethz.github.io on each build -->
-
 ## Misc
 
 The goal of this organization and repos listed here is to provide concise and structured overviews of courses and self-practice. The course contents may change over time so please refer to the naming of the repo to check in which year the course was taught. 
